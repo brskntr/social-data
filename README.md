@@ -1,7 +1,7 @@
 # social-data
 
 ## Requirements
-> Java 11 
+> Java 11 ,
 > Mysql 5.7
 
 ## EurekaServerService
